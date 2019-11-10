@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple project to demonstrate how to do JWT authentication on a Rails API application.
 
-Things you may want to cover:
+#### Gems Used
+* JWT
+* Bcrypt
+* Simple Command
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    
